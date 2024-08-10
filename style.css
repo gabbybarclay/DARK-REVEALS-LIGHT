@@ -1,0 +1,16 @@
+.topnav li {
+  text-align: left;
+  float: left;margin: 20px;
+  font-size: x-large;
+  
+}
+li {
+  list-style: none;
+  display: inline-block;
+  text-decoration: none; 
+  color: black;
+}
+
+li a {
+  color: #030303;
+}
